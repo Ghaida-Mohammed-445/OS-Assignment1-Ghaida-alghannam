@@ -8,9 +8,6 @@ Answer the following questions about your learning experience. Each answer shoul
 ## Question 1: What did you learn about multithreading?
 
 **Your Answer:**
-The challenge for me was in feature 3.
-
-In feature 3, it was hard to write the output code to match the required format.
 
 [Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
 
@@ -19,7 +16,9 @@ In feature 3, it was hard to write the output code to match the required format.
 ## Question 2: What was the most challenging part of this assignment?
 
 **Your Answer:**
+The challenge for me was in feature 3.
 
+In feature 3, it was hard to write the output code to match the required format.
 [Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
 
 ---
