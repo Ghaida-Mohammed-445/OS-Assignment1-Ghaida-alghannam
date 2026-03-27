@@ -8,6 +8,11 @@ Answer the following questions about your learning experience. Each answer shoul
 ## Question 1: What did you learn about multithreading?
 
 **Your Answer:**
+I learned that a thread can run many tasks at the same time.
+A thread is like a small part of a program.
+I learned how to make a new thread in a program.
+Threads can work together at the same time.
+Threads can run while the program is doing other things.
 
 [Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
 
