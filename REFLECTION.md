@@ -8,6 +8,9 @@ Answer the following questions about your learning experience. Each answer shoul
 ## Question 1: What did you learn about multithreading?
 
 **Your Answer:**
+The challenge for me was in feature 3.
+
+In feature 3, it was hard to write the output code to match the required format.
 
 [Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
 
