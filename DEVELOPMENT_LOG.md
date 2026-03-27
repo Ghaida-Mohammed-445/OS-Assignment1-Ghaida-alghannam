@@ -58,16 +58,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 3 - [March 25, 2026, 2:30 PM]
+**What I did**: connecting Visual Studio Code with github
 
-**Details**: 
+**Details**:  connecting Visual Studio Code with github
 
-**Challenges**: 
+**Challenges**: the hard thing was how to connect them 
 
-**Solution**: 
+**Solution**: watch a youtube video
 
-**Time spent**: 
+**Time spent**: 30 minute
 
 ---
 
