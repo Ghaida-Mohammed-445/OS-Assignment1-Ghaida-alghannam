@@ -45,16 +45,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**: 
+### Entry 2 -[March 25, 2026, 12:45 PM]
+**What I did**: Download Visual Studio Code
 
-**Details**: 
+**Details**: Download Visual Studio Code via the link in the assignment file
 
-**Challenges**: 
+**Challenges**: i can't Download it onto my laptop
 
-**Solution**: 
+**Solution**: i watched a tutorial video on youtune
 
-**Time spent**: 
+**Time spent**: one hour
 
 ---
 
