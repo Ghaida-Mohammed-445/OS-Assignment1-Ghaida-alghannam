@@ -112,10 +112,10 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: 1 week [X hours]
 
-**Most challenging part**: 
+**Most challenging part**: Feature 3: how to print the output as a table 
 
-**Most interesting learning**: 
+**Most interesting learning**: I learned how to write a thread.
 
-**What I would do differently next time**: 
+**What I would do differently next time**:  Next time, I will watch tutorial videos about the homework I am doing so it will be easier and faster
