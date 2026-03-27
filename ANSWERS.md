@@ -24,7 +24,6 @@ If a process does not finish in its time quantum, it is added back to the ready 
 Adding the process to the queue is important so it can continue its work   
 
 
-[Write your answer here. Describe the specific behavior - where does the process go? When does it run again? Give an example from your actual program output showing a process that was re-queued.]
 
 Example from my output:
  ظû╢ P1 executing quantum [4000ms] 
@@ -38,7 +37,7 @@ Example from my output:
 **Explanation of example:**
 This is an example of a process that did not finish its work, so it was added to the ready queue
 
-[Explain what's happening in the output snippet you pasted]
+
 
 ---
 
@@ -48,7 +47,6 @@ This is an example of a process that did not finish its work, so it was added to
 
 **Your Answer:**
 
-[Write your answer here. For each state, explain when P1 enters that state during the simulation. Use your understanding of the code to trace through the lifecycle.]
 
 1. **New**: P1 is New when we make it but do not start it yet
 2. **Runnable**:After we use Thread.start() P1 is Runnable and waits for the CPU
@@ -63,21 +61,22 @@ This is an example of a process that did not finish its work, so it was added to
 
 **Your Answer:**
 
-### Example 1: [Name of application/scenario]
+### Example 1:YouTube
 
 **Description**: 
-[Describe the real-world scenario or application]
+YouTube runs many tasks like playing a video loading comments and downloading next videos in the background
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+Each task gets a fair turn to use the CPU so the app stays smooth fast and responsive
 
-### Example 2: [Name of application/scenario]
+### Example 2: WhatsApp
 
 **Description**: 
-[Describe the real-world scenario or application]
+A chat app handles receiving messages showing notifications and letting the user type at the same time
+
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+Round-Robin gives each task a small time slice so everything works together quickly and nothing freezes
 
 ---
 
