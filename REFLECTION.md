@@ -52,6 +52,11 @@ In the end, I got the correct answer.
 ## Question 4: How can you apply multithreading concepts in real-world applications?
 
 **Your Answer:**
+Multithreading helps apps do many things at the same time.
+For example, in YouTube, I can watch a video.
+At the same time, new videos can download in the background.
+Comments can load while I watch the video.
+Threads make the app faster and smoother.
 
 [Give specific examples from real applications you use (web browsers, games, mobile apps, etc.). Explain why threads are useful in those scenarios. Connect to what you learned in this assignment.]
 
