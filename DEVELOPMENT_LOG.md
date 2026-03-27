@@ -84,16 +84,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 5 - [March 27, 2026, 3:15 PM]
+**What I did**: add Feature 3
 
-**Details**: 
+**Details**: Feature 3: Added waiting time tracking and summary
 
-**Challenges**: 
+**Challenges**: how to print the output as a table
 
-**Solution**: 
+**Solution**: after many tries i printed it the right way
 
-**Time spent**: 
+**Time spent**: 30  minute
 
 ---
 
