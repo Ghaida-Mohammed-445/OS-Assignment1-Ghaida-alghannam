@@ -14,7 +14,6 @@ I learned how to make a new thread in a program.
 Threads can work together at the same time.
 Threads can run while the program is doing other things.
 
-[Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
 
 ---
 
@@ -29,7 +28,6 @@ Also, it was hard to write the output code to match the required format.
 
 
 
-[Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
 
 ---
 
@@ -45,7 +43,7 @@ I tried many times.
 In the end, I got the correct answer.
 
 
-[Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
+
 
 ---
 
@@ -58,7 +56,6 @@ At the same time, new videos can download in the background.
 Comments can load while I watch the video.
 Threads make the app faster and smoother.
 
-[Give specific examples from real applications you use (web browsers, games, mobile apps, etc.). Explain why threads are useful in those scenarios. Connect to what you learned in this assignment.]
 
 ---
 
