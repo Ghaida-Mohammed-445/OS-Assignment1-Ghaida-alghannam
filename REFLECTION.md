@@ -31,6 +31,14 @@ Also, it was hard to write the output code to match the required format.
 ## Question 3: How did you overcome the challenges you faced?
 
 **Your Answer:**
+I solved the problems by asking my brother because he knows programming.
+He helped me understand the code for feature 1 and feature 3.
+Then I started to work by myself step by step.
+After that, I had another problem in feature 3, which was printing the result in the correct way.
+It was a little hard because it needed good order.
+I tried many times.
+In the end, I got the correct answer.
+
 
 [Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
 
