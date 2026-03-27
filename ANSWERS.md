@@ -50,16 +50,11 @@ This is an example of a process that did not finish its work, so it was added to
 
 [Write your answer here. For each state, explain when P1 enters that state during the simulation. Use your understanding of the code to trace through the lifecycle.]
 
-1. **New**: [When is P1 in New state?]
-
-2. **Runnable**: [When does P1 become Runnable?]
-
-3. **Running**: [When is P1 Running?]
-
-4. **Waiting**: [When/why would P1 be Waiting?]
-
-5. **Terminated**: [When is P1 Terminated?]
-
+1. **New**: P1 is New when we make it but do not start it yet
+2. **Runnable**:After we use Thread.start() P1 is Runnable and waits for the CPU
+3. **Running**: P1 is Running when the CPU runs its code in run()
+4. **Waiting**: P1 goes Waiting if we use Thread.sleep() or Thread.join()
+5. **Terminated**: P1 is Terminated when it finishes all its work
 ---
 
 ## Question 4: Real-World Applications
