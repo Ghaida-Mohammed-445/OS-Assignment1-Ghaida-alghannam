@@ -71,16 +71,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 4 - [Date and Time]
-**What I did**: 
+### Entry 4 - [March 27, 2026, 2:30 PM]
+**What I did**: add Feature 1
 
-**Details**: 
+**Details**: Feature 1: Added priority field to Process class
 
-**Challenges**: 
+**Challenges**: when i run the code the output in not the same as needed
 
-**Solution**: 
+**Solution**: i asked my brother because he has experience in programming
 
-**Time spent**: 
+**Time spent**: 45 minute
 
 ---
 
