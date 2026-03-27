@@ -32,16 +32,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [March 25, 2026, 12:30 PM]
+**What I did**: add Repository
 
-**Details**: 
+**Details**: add Repository from the link in the assignment file to github
 
-**Challenges**: 
+**Challenges**: nothing
 
-**Solution**: 
+**Solution**: nothing 
 
-**Time spent**: 
+**Time spent**: one minute
 
 ---
 
