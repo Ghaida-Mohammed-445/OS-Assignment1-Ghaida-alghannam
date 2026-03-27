@@ -20,15 +20,24 @@ Answer all 4 questions with detailed explanations. Each answer should be **3-5 s
 **Question**: In Round-Robin scheduling, what happens when a process doesn't finish within its time quantum? Explain using an example from your program output.
 
 **Your Answer:**
+If a process does not finish in its time quantum, it is added back to the ready queue.
+Adding the process to the queue is important so it can continue its work   
+
 
 [Write your answer here. Describe the specific behavior - where does the process go? When does it run again? Give an example from your actual program output showing a process that was re-queued.]
 
 Example from my output:
-```
-[Paste a relevant snippet from your program output here showing a process being re-queued]
-```
+ ظû╢ P1 executing quantum [4000ms] 
+  ظأة Quantum progress: [ظûêظûêظûêظûêظûêظûêظûêظûêظûêظûêظûêظûêظûêظûêظûê] 100%
+  ظ╕ P1 completed quantum 4000ms ظ¤é Overall progress: [ظûêظûêظûêظûêظûêظûêظûêظûêظûêظûّظûّ ظûّظûّظûّظûّظûّظûّظûّظûّظûّ] 46%
+     Remaining time: 4553ms
+  ظ╗ P1 yields CPU for context switch
+
+  ظئـ P1java.awt.Color[r=255,g=255,b=0] (Priority: 5) added to ready queue ظ¤é Burst time: 8553ms
 
 **Explanation of example:**
+This is an example of a process that did not finish its work, so it was added to the ready queue
+
 [Explain what's happening in the output snippet you pasted]
 
 ---
