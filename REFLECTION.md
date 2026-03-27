@@ -16,9 +16,14 @@ Answer the following questions about your learning experience. Each answer shoul
 ## Question 2: What was the most challenging part of this assignment?
 
 **Your Answer:**
-The challenge for me was in feature 3.
+The challenge for me was in feature 1 and feature 3.
+In feature 1, it was hard to add the priority field to the Process class.
+I was not sure how to write it correctly in the code.
+In feature 3, it was harder because I did not know how to calculate the time for each process.
+Also, it was hard to write the output code to match the required format.
 
-In feature 3, it was hard to write the output code to match the required format.
+
+
 [Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
 
 ---
